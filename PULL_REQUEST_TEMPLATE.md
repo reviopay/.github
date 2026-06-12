@@ -1,9 +1,8 @@
 # Description
 <!-- Describe your changes in detail -->
 
-# Tickets
-<!-- Note any tickets that are affected by this PR -->
-<!-- e.g. fixes [PLA-123](ticketurlhere) -->
+# Uncertainties
+<!-- Anything that should get more attention in code review. -->
 None
 
 # Testing
@@ -11,18 +10,13 @@ None
 <!-- Include details, attach screenshots/gifs/log snippets, etc -->
 - [ ] Unit tests
 - [ ] Local API testing
-- [ ] Cypress App
 - [ ] GitHub Actions
 - [ ] Postman runner
 - [ ] No testing required
 
-# Dependents/Being depended on 
-<!-- Please provide link if this pull request is dependent on another pull request or -->
-<!-- Does this change break and existing apis or frontend integrations? -->
-None
-
-# Uncertainties
-<!-- Please provide code reviewers with anything you are uncertain of or should get more attention in code review. -->
+# Tickets
+<!-- Note any tickets that are affected by this PR -->
+<!-- e.g. fixes [PLA-123](ticketurlhere) -->
 None
 
 <!-- PR GUIDELINES -->
